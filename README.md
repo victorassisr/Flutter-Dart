@@ -25,3 +25,23 @@ Criei com o intuito de familiarizar com a tecnologia.
 
 
 O intuito do app desenvolvido é sugerir pares de nomes randomicos para startups.
+
+
+## Executando o App
+
+É necessário que você tenha o flutter instalado.
+
+
+Você pode conseguir ele [neste](https://flutter.dev/docs/get-started/install) link.
+
+
+Para rodar o app, certifique-se de que tenha um emulador ou um dispositivo real (Android ou IOs) conectado ao
+
+
+pc com modo de desenvolvedor habilitado.
+
+
+Então abra o terminal e digite o seguinte comando: flutter run
+
+
+O comando acima instalará todas as dependencias do app e irá fazer o build e instalar o App no dispositivo/Emulador.
