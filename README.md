@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Descricão
+## Descrição
 
 Este projeto é disponibilizado na documentação do flutter para iniciar o desenvolvimento.
 
